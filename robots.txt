@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: :10089/wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://kashi-j.github.io/media1_static/sitemap.xml
+Sitemap: https://kashi-j.github.io/media1_static/sitemap.rss
